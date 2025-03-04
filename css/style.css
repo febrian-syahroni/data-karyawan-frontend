@@ -1,0 +1,43 @@
+.navbar {
+  margin-bottom: 20px;
+}
+
+.table th {
+  background-color: #f8f9fa;
+}
+
+.action-buttons .btn {
+  margin-right: 5px;
+}
+
+.modal-dialog {
+  max-width: 500px;
+}
+
+.form-label {
+  font-weight: 500;
+}
+
+.alert {
+  margin-top: 20px;
+}
+
+#employeeTable {
+  margin-top: 20px;
+}
+
+/* Styling untuk form pencarian */
+#searchNik::-webkit-inner-spin-button,
+#searchNik::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+#searchNik {
+  -moz-appearance: textfield;
+}
+
+.input-group {
+  max-width: 400px;
+  float: right;
+}
